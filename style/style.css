@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+:root {
+    --cor-primaria: #ffcccc;
+    --cor-secundaria: #cccccc;
+    --cor-terciaria: #000000;
+}
+
+body {
+    background-color: var(--cor-secundaria);
+    box-sizing: border-box;
+    width: 100vw;
+    color: var(--cor-terciaria);
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
